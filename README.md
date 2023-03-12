@@ -139,3 +139,16 @@ MLOPs is a combination of Model Deployment, Model Serving, Model Monitoring, and
 - [MLOPs by MadewithML](https://madewithml.com/courses/mlops/)
 
 I will also recommend 📗[Practical MLOPs by Alfredo Deza and Noah Gift](https://www.oreilly.com/library/view/practical-mlops/9781098103002/).
+
+## Upcoming Topics 📚
+
+This repository is a work in progress, we will be adding more topics in the future, you can check out the following topics which we will be adding in the future:-
+
+- Data science projects, 
+- Detailed Guide to Data Science Portfolio, 
+- Detailed Guide to Data Science Resume, 
+- Preparing for Job interviews, and many more.
+
+### Contributions 🤝
+
+I am open to contributions. If you want to contribute to this repository, just submit a pull request. I will review and merge it. The only criteria is that it should help fellow learners.
