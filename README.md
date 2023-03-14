@@ -49,15 +49,14 @@ Congrats, you completed the first step on your journey 🎉.
 
 #### **🐍 Python for Beginners**:
 
-[RealPython](https://realpython.com) creates great resources for python developers of all levels. Their basic courses are a combination of video and text resources which have been praised by many.
+[Programiz](https://www.programiz.com) creates great resources for python developers of all levels. Their basic courses are a combination of video and text resources which have been praised by many.
 
-- 🔗 Introduction to Python (Basic): https://realpython.com/learning-paths/python3-introduction/
+- 🎥 Introduction to Python (Basic): https://www.youtube.com/playlist?list=PL98qAXLA6afuh50qD2MdAj3ofYjZR_Phn/
 
-Object oriented programming is really important for machine learning especially when you start working on pytorch and transformer based architecture. But no worries this 🔗 (Object oriented programming (OOP))[https://realpython.com/learning-paths/object-oriented-programming-oop-python/] python course by RealPython has got you covered.
+Object oriented programming is really important for machine learning especially when you start working on pytorch and transformer based architecture. But no worries this 🎥 (Object oriented programming (OOP))[https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc] python course by RealPython has got you covered.
 
 🔗 Below are additional resources just in case above are not up to your taste:
 
-- [Python OOP Tutorials - Working with Classes by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - https://developers.google.com/edu/python
 - https://python.swaroopch.com/
 
