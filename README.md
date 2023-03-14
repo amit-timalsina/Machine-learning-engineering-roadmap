@@ -2,7 +2,7 @@
 
 ![Machine learning project lifecycle](https://github.com/amit-timalsina/Machine-learning-engineering-roadmap/blob/master/assets/ML%20project%20lifecycle-2%20Large.jpeg)
 
-Machine learning is not just about building a model using some publicly available clean data. There are multiple steps that are required to build an ML product. The above is the end to end steps required to build a machine learning product that could potentially make an impact. I have a dedicated article series that goes into details of each step shown in above diagram. The below resources will help you on each step shown in above figure.
+Machine learning is not just about building a model using some publicly available clean data. There are multiple steps that are required to build an ML product. The above figure shows the end to end steps required to build a machine learning product that could potentially make an impact. I have a dedicated (article series)[https://amit-timalsina.medium.com/list/machine-learning-project-lifecycle-4ba518381213] that goes into details of each step shown in above diagram.
 
 I will divide the resources into different levels of learning and will also provide the best resources to learn each topic. The levels of learning are:
 
