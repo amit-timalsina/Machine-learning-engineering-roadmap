@@ -53,7 +53,7 @@ Congrats, you completed the first step on your journey 🎉.
 
 - 🎥 Introduction to Python (Basic): https://www.youtube.com/playlist?list=PL98qAXLA6afuh50qD2MdAj3ofYjZR_Phn/
 
-Object oriented programming is really important for machine learning especially when you start working on pytorch and transformer based architecture. But no worries this 🎥 (Object oriented programming (OOP))[https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc] python course by RealPython has got you covered.
+Object oriented programming is really important for machine learning especially when you start working on pytorch and transformer based architecture. But no worries this 🎥 (Object oriented programming (OOP))[https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc] course on YouTube has got you covered.
 
 🔗 Below are additional resources just in case above are not up to your taste:
 
@@ -73,8 +73,8 @@ Data collection and Data exploration are the core Data Science Fundamentals as s
 I have seen a lot of people skip learning the core data science fundamentals for flashy Deep learning, which creates a lot of problem later when we start working on End-to-end machine learning to solve a business problem. So better learn them.
 
 **Additional resources:**
-- 🔗 Data Analysis with Python: Zero to Pandas
-- 📗 Python Data Science Handbook (Chapter 1–4)
+- 🔗 [Data Analysis with Python: Zero to Pandas](https://jovian.com/learn/data-analysis-with-python-zero-to-pandas)
+- 📗 [Python Data Science Handbook (Chapter 1–4)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.01-Understanding-Data-Types.ipynb)
 
 Tip: All the libraries mentioned above, have elegant documentation. Feel free to explore them as well.
 
