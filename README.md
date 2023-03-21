@@ -106,7 +106,7 @@ Most of the times, the raw data can't be directly fed into a model. These raw da
 Data preparation varies a lot based on project and data. So, having good knowledge of python helps a lot. You will have to learn different libraries based on your requirement (your data preparation skills improve as you work on more projects). My suggestions for learning Data preparation and feature engineering are provided below:
 
 - 🎥 [Feature Engineering Krish Naik Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN) (YouTube)
-- 📗 [Approaching almost any Machine Learning problem (Chapter 6,7, 8)](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT) (Book)
+- 📗 [Approaching almost any Machine Learning problem](https://github.com/abhishekkrthakur/approachingalmost/raw/master/AAAMLP.pdf) (Chapter 6,7, 8)](Book available for free)
 - 🔗 [Data Preparation and Feature Engineering in ML](https://towardsdatascience.com/data-preparation-and-feature-engineering-in-machine-learning-95a1581673c) (Article)
 - 🔗 [Advanced Feature Engineering Tutorial](https://www.kaggle.com/ryanholbrook/advanced-feature-engineering-tutorial) (Kaggle Course)
 
