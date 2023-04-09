@@ -137,7 +137,7 @@ MLOPs is a combination of Model Deployment, Model Serving, Model Monitoring, and
 
 - 🔗 [MLOPs by MadewithML](https://madewithml.com/courses/mlops/)
 
-I will also recommend 📗 [Practical MLOPs by Alfredo Deza and Noah Gift](https://www.oreilly.com/library/view/practical-mlops/9781098103002/).
+I will also recommend 📗 [Practical MLOPs by Alfredo Deza and Noah Gift](https://www.oreilly.com/library/view/practical-mlops/9781098103002/). It’s a great supplement to the course and provides practical knowledge that you can implement in your projects right away. 🚀
 
 ## Upcoming Topics 📚
 
